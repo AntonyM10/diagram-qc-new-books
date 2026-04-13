@@ -130,9 +130,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yur1R3RJj-z8sfzc4QDy-50" edge="1" parent="1" source="yur1R3RJj-z8sfzc4QDy-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yur1R3RJj-z8sfzc4QDy-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yur1R3RJj-z8sfzc4QDy-44" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fontStyle=0;fillColor=#99CCFF;" value="Post Another Entry?" vertex="1">
           <mxGeometry height="160" width="200" x="830" y="470" as="geometry" />
         </mxCell>
@@ -142,11 +139,14 @@
         <mxCell id="yur1R3RJj-z8sfzc4QDy-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
           <mxGeometry height="30" width="60" x="1020" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="yur1R3RJj-z8sfzc4QDy-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#003333;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=#CC6600;" value="END" vertex="1">
-          <mxGeometry height="40" width="127.5" x="866.25" y="690" as="geometry" />
-        </mxCell>
         <mxCell id="yur1R3RJj-z8sfzc4QDy-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
-          <mxGeometry height="30" width="60" x="910" y="640" as="geometry" />
+          <mxGeometry height="30" width="60" x="920" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="yur1R3RJj-z8sfzc4QDy-54" parent="1" style="strokeWidth=5;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#994C00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=1;fillColor=#00FF00;" value="END" vertex="1">
+          <mxGeometry height="60" width="130" x="865" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="yur1R3RJj-z8sfzc4QDy-55" edge="1" parent="1" source="yur1R3RJj-z8sfzc4QDy-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="yur1R3RJj-z8sfzc4QDy-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
