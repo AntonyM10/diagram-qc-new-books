@@ -18,7 +18,7 @@
         </mxCell>
         <mxCell id="yur1R3RJj-z8sfzc4QDy-15" edge="1" parent="1" source="yur1R3RJj-z8sfzc4QDy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="400.0588235294117" as="targetPoint" />
+            <mxPoint x="410" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yur1R3RJj-z8sfzc4QDy-16" edge="1" parent="1" source="yur1R3RJj-z8sfzc4QDy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
@@ -33,12 +33,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yur1R3RJj-z8sfzc4QDy-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
-          <mxGeometry height="30" width="60" x="305" y="370" as="geometry" />
+          <mxGeometry height="30" width="60" x="330" y="370" as="geometry" />
         </mxCell>
         <mxCell id="yur1R3RJj-z8sfzc4QDy-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
           <mxGeometry height="30" width="60" x="200" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="yur1R3RJj-z8sfzc4QDy-20" edge="1" parent="1" source="yur1R3RJj-z8sfzc4QDy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" target="yur1R3RJj-z8sfzc4QDy-11">
+        <mxCell id="yur1R3RJj-z8sfzc4QDy-30" edge="1" parent="1" source="yur1R3RJj-z8sfzc4QDy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" target="yur1R3RJj-z8sfzc4QDy-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yur1R3RJj-z8sfzc4QDy-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fontSize=15;fontColor=#E5CCFF;fillColor=#FF6666;strokeColor=#FFCCE6;dashed=1;" value="&lt;span style=&quot;caret-color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;Error: Missing Fields&lt;/span&gt;" vertex="1">
@@ -46,14 +46,26 @@
         </mxCell>
         <mxCell id="yur1R3RJj-z8sfzc4QDy-22" edge="1" parent="1" source="yur1R3RJj-z8sfzc4QDy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="449.47058823529414" y="510" as="targetPoint" />
+            <mxPoint x="505" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yur1R3RJj-z8sfzc4QDy-21" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=12;align=center;fontColor=#000000;fontFamily=Helvetica;verticalAlign=middle;strokeColor=#FFFFFF;fillColor=#99CCFF;fontStyle=0;" value="&lt;span style=&quot;caret-color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;Is the Amount Greater Than Zero?&lt;/span&gt;" vertex="1">
-          <mxGeometry height="160" width="180" x="360" y="320" as="geometry" />
+          <mxGeometry height="160" width="180" x="415" y="320" as="geometry" />
         </mxCell>
         <mxCell id="yur1R3RJj-z8sfzc4QDy-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
-          <mxGeometry height="30" width="60" x="430" y="480" as="geometry" />
+          <mxGeometry height="30" width="60" x="490" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yur1R3RJj-z8sfzc4QDy-29" edge="1" parent="1" source="yur1R3RJj-z8sfzc4QDy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" target="yur1R3RJj-z8sfzc4QDy-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="505" y="590" />
+              <mxPoint x="50" y="590" />
+              <mxPoint x="50" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yur1R3RJj-z8sfzc4QDy-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;strokeColor=#FFCCE6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#E5CCFF;fillColor=#FF6666;fontStyle=0;" value="&lt;span style=&quot;text-align: start; caret-color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;Error: Invalid Amount&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="250" x="380" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
